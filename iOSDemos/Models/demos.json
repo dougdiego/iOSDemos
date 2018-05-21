@@ -1,0 +1,35 @@
+[
+ {
+ "title": "Swipe Keyboard",
+ "viewController": "SwipeKeyboardViewController",
+ "description": "Swipe the keyboard in a tableview to dismiss it."
+ },
+ {
+ "title": "Programmatically Select Rows",
+ "viewController": "ProgSelectRowViewController",
+ "description": "Programmatically select rows in a UITableView",
+ "url": "https://diego.org/2017/12/06/programmatically-selecting-a-row-in-a-uitableview/"
+ },
+ {
+ "title": "Dispatch Group",
+ "viewController": "DispatchGroupViewController",
+ "description": "An an example using DispatchGroup to make a network request.",
+ "url": "https://diego.org/2017/09/25/dispatchgroup-with-swift/"
+ },
+ {
+ "title": "Auto Layout Center Contraint with Multipler",
+ "viewController": "AutoLayoutCenterMultiplierViewController",
+ "description": "A demo using Auto Layout Center Contraint with Multipler"
+ },
+ {
+ "title": "Colored UIBarButtonItems",
+ "viewController": "ColoredBarButtonsViewController",
+ "description": "Using colored images in UIBarButtonItems"
+ },
+ {
+ "title": "Example Web View",
+ "viewController": "WebViewController",
+ "description": "Example Web View"
+ }
+]
+
