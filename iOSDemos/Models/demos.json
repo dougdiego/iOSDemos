@@ -30,6 +30,11 @@
  "title": "Example Web View",
  "viewController": "WebViewController",
  "description": "Example Web View"
+ },
+ {
+ "title": "SafariViewController",
+ "viewController": "SafariViewController",
+ "description": "Example SafariViewController"
  }
 ]
 

@@ -11,6 +11,7 @@
 		3D294DDE20640067000361E8 /* AutoLayoutCenterMultiplierViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D294DDD20640067000361E8 /* AutoLayoutCenterMultiplierViewController.swift */; };
 		3D5BC7522080361100877CDF /* ColoredBarButtonsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5BC7512080361100877CDF /* ColoredBarButtonsViewController.swift */; };
 		3D5BC7542080389C00877CDF /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5BC7532080389C00877CDF /* WebViewController.swift */; };
+		3D7B30C620BF64680042C1FB /* SafariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7B30C520BF64680042C1FB /* SafariViewController.swift */; };
 		3DA9B90020615B2100A425F2 /* DispatchGroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA9B8FF20615B2100A425F2 /* DispatchGroupViewController.swift */; };
 		3DBCB40620A4785400719710 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3DBCB40520A4785400719710 /* README.md */; };
 		3DE9A942205C174B00B397C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE9A941205C174B00B397C5 /* AppDelegate.swift */; };
@@ -31,6 +32,7 @@
 		3D294DDD20640067000361E8 /* AutoLayoutCenterMultiplierViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutCenterMultiplierViewController.swift; sourceTree = "<group>"; };
 		3D5BC7512080361100877CDF /* ColoredBarButtonsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredBarButtonsViewController.swift; sourceTree = "<group>"; };
 		3D5BC7532080389C00877CDF /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		3D7B30C520BF64680042C1FB /* SafariViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariViewController.swift; sourceTree = "<group>"; };
 		3DA9B8FF20615B2100A425F2 /* DispatchGroupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchGroupViewController.swift; sourceTree = "<group>"; };
 		3DBCB40520A4785400719710 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3DE9A93E205C174B00B397C5 /* iOSDemos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSDemos.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,6 +72,7 @@
 				3D294DDD20640067000361E8 /* AutoLayoutCenterMultiplierViewController.swift */,
 				3D5BC7512080361100877CDF /* ColoredBarButtonsViewController.swift */,
 				3D5BC7532080389C00877CDF /* WebViewController.swift */,
+				3D7B30C520BF64680042C1FB /* SafariViewController.swift */,
 			);
 			path = Demos;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D7B30C620BF64680042C1FB /* SafariViewController.swift in Sources */,
 				3DE9A95C205C243F00B397C5 /* SwipeKeyboardViewController.swift in Sources */,
 				3D0F8FE7205D7022003F48DF /* ProgSelectRowViewController.swift in Sources */,
 				3DE9A956205C180C00B397C5 /* NSLayoutConstraint+Activate.swift in Sources */,
